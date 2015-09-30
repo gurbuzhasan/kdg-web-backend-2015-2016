@@ -6,7 +6,11 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 
 ## Deadlines
 
-- Deadlines voor de te maken opdrachten komen hier
+- Deadline 01
+	- Deadline: voor de les van woensdag 7 oktober 2015
+	- Opdracht: tot en met opdracht functions-recursive (slide 85)
+	- Vergeet niet een commit van je opdrachten te doen
+	- Neem de slides/voorbeelden van $_GET/$_POST eens door, daar gaan we mee verder volgende les.
 
 ## Cursus
 
