@@ -110,6 +110,10 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 ## Studenten
 
-- Naam
+- Alex Vanderbist
+	- email: alex.vanderbist@gmail.com
+	- GitHub: AlexVanderbist
+
+- Siebe Vandeneynde
 	- email: siebe.vandeneynden@student.kdg.be
 	- GitHub: https://github.com/SiebeVE
