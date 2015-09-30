@@ -113,3 +113,6 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 - Naam
 	- email: e-mailadres
 	- GitHub: github-account
+- Alex Vanderbist
+	- email: alex.vanderbist@gmail.com
+	- GitHub: AlexVanderbist
