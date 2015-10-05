@@ -114,10 +114,128 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 ## Studenten
 
-- Alex Vanderbist
+1. Alex Vanderbist
 	- email: alex.vanderbist@gmail.com
-	- GitHub: AlexVanderbist
+	- GitHub: https://github.com/AlexVanderbist/
 
-- Siebe Vandeneynde
+2. Siebe Vandeneynde
 	- email: siebe.vandeneynden@student.kdg.be
-	- GitHub: https://github.com/SiebeVE
+	- GitHub: https://github.com/SiebeVE/
+
+3. Lander Verschueren
+	- email: lander.verschueren@student.kdg.be
+	- GitHub: https://github.com/LanderVerschueren
+
+4. Wouter Schoofs
+	- email: schoofs.wouter@gmail.com
+	- GitHub: https://github.com/WouterSchoofs/
+
+5. Nick Verstocken
+	- email: verstockennick@gmail.com
+	- GitHub: https://github.com/nickverstocken/
+
+6. Ruben De Swaef
+	- email: rubendeswaef@gmail.com
+	- GitHub: https://github.com/rubends/
+
+7. Dieter Vercammen
+	- email: dieter.vercammen@student.kdg.be
+	- GitHub: https://github.com/DieterVercammen/
+
+8. Joren VH
+	- email: joren.vh@hotmail.com
+	- GitHub: https://github.com/jorenvh1/
+
+9. Luka Verhoeven
+	- email: lka.v.lv@gmail.com
+	- GitHub: https://github.com/LukaVerhoeven/
+
+10. Patokin Anton
+	- email: Patokin.anton@gmail.com
+	- GitHub: https://github.com/Anton-Patokin/
+
+
+11. Sander Peeters
+	- email: sander.peeters@student.kdg.be
+	- GitHub: https://github.com/SanderPeeters/
+
+12. Kevin Bavuidi
+	- email: kevin.bavuidi@hotmail.com
+	- GitHub: https://github.com/lekevinbm/
+
+
+13. Cedric Proost
+	- email: proost_cedric@hotmail.com
+	- GitHub: https://github.com/davidcassedie/
+
+14. Stig Vanbrabant
+	- email: stig.vanbrabant@student.kdg.be
+	- GitHub: https://github.com/StigVanbrabant/
+
+15. Phedra Moerloos
+	- email: phedra.moerloos@student.kdg.be
+	- GitHub: https://github.com/PhedraMoerloos/
+
+16. Sarah Jehin
+	- email: sarah.jehin@student.kdg.be
+	- GitHub: https://github.com/SarahJehin/
+
+17. Denis Inghelbrecht
+	- email: denis.inghelbrecht@student.kdg.be
+	- GitHub: https://github.com/YKdenis/
+
+18. Edward Vereertbrughen
+	- email: Edward.Vereertbrugghen@gmail.com
+	- GitHub: https://github.com/edwwaarrdd/
+
+19. Toon De Jonge
+	- email: toon.dejonge@student.kdg.be
+	- GitHub: https://github.com/DeJongeToon/
+
+20. Felix Rijkers
+	- email: felix.rijkers@student.kdg.be
+	- GitHub: https://github.com/FelixRijkers/
+
+21. Noemi Belloy
+	- email: noemi.belloy@student.kdg.be
+	- GitHub: https://github.com/NoemiBelloy/
+
+22. Rowan van Ekeren
+	- email: rowan.vanekeren@student.kdg.be
+	- GitHub: https://github.com/rowanvanekeren/
+
+23. Dries Heyninck
+	- email: dries.heyninck@gmail.com
+	- GitHub: https://github.com/DriesH/
+
+24. Ruben Van Ostaeyen
+	- email: rubenvanostaeyen@hotmail.com
+	- GitHub: https://github.com/RubenVO/
+
+25. Adriaan Marain
+	- email: adriaanmarain300@gmail.com
+	- GitHub: https://github.com/AdrianMrn/
+
+26. Sam De Wachter
+	- email: sam.dewachter@student.kdg.be
+	- GitHub: https://github.com/samdewachter/
+
+27. Seppe Renty
+	- email: seppe.renty@student.kdg.be
+	- GitHub: https://github.com/sepperenty/
+
+28. Sharon Meeus
+	- email: sharon.meeus@gmail.com
+	- GitHub: https://github.com/SharonMeeus/
+
+29. Seppe Goossens
+	- email: goossens.seppe@hotmail.com
+	- GitHub: https://github.com/SeppeDev/
+
+30. Sacha De Pauw
+	- email: sacharypens@gmail.com
+	- GitHub: https://github.com/sacharypens/
+
+31. Ben Vaes
+	- email: ben.vaes@student.kdg.be
+	- GitHub: https://github.com/BenVaes/
