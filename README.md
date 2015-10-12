@@ -6,6 +6,13 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 
 ## Deadlines
 
+
+- Deadline 02
+	- Deadline: voor de les van woensdag 14 oktober 2015
+	- Opdracht: tot en met opdracht functions-recursive (slide 85)
+	- Vergeet niet een commit van je opdrachten te doen
+	- Neem de slides/voorbeelden van sessions/cookies eens door, daar gaan we mee verder volgende les.
+
 - Deadline 01
 	- Deadline: voor de les van woensdag 7 oktober 2015
 	- Opdracht: tot en met opdracht functions-recursive (slide 85)
@@ -239,3 +246,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 31. Ben Vaes
 	- email: ben.vaes@student.kdg.be
 	- GitHub: https://github.com/BenVaes/
+
+32. Sophie Moons
+	- email: sophie.moons@student.kdg.be
+	- GitHub: https://github.com/SophieMoons/
